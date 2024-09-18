@@ -1,0 +1,19 @@
+/* Cambiar el tamaño y color del texto de la barra de título */
+.dialog-title {
+    -fx-font-size: 16px; /* Tamaño del texto del título */
+    -fx-text-fill: white; /* Color del texto del título */
+}
+
+.label {
+    -fx-font-size: 25px; /* Cambia el tamaño de la fuente aquí */
+}
+
+.button {
+    -fx-font-size: 25px; /* Cambia el tamaño de la fuente aquí */
+    -fx-background-color: #007BFF; /* Color de fondo de los botones */
+}
+
+/* Cambiar el color de fondo del cuadro de diálogo */
+.dialog-pane {
+    -fx-background-color: #f0f0f0; /* Color de fondo del cuadro de diálogo */
+}
